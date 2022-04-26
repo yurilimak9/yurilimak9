@@ -1,10 +1,12 @@
 ### Olá ✌
 
-<div>
-  <a href="https://github.com/yurilimak9">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurilimak9&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+<a href="https://github.com/yurilimak9">
+  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=yurilimak9&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&layout=compact&)" />
+</a>
+
+<a href="https://github.com/yurilimak9">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurilimak9&langs_count=8&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&)" />
+</a>
   
 ##
   
@@ -22,6 +24,6 @@
   
 <div> 
 
-  <a href="https://www.linkedin.com/in/yurilimak9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/yurilimak9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
